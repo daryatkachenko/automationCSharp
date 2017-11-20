@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B7B9ECD0-6D5E-407C-BFEA-80786BC04CD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutomationTestsApp/AutoTests/BaseTest.cs">
+    <Files>
+      <File FileName="AutomationTestsApp/DriverManager/DriverFactory.cs" Line="21" Column="41" />
+      <File FileName="AutomationTestsApp/PageObjects/BaseObject.cs" Line="21" Column="1" />
+      <File FileName="AutomationTestsApp/PageObjects/BasePage.cs" Line="21" Column="1" />
+      <File FileName="AutomationTestsApp/PageObjects/HomePage.cs" Line="3" Column="14" />
+      <File FileName="AutomationTestsApp/AutoTests/BaseTest.cs" Line="35" Column="1" />
+      <File FileName="AutomationTestsApp/AutoTests/HomePageTest.cs" Line="18" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.AutomationTestsApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
